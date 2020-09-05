@@ -7,9 +7,9 @@ Once the user saves the blog title and the blog content, an ```id``` will be aut
 
 ```
 {
-Id: blog.id,
-Title: blog.title,
-Content: blog.content
+  id: blog.id,
+  title: blog.title,
+  content: blog.content
 }
 ```
 

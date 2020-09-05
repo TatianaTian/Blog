@@ -1,4 +1,4 @@
-# Mobile App - Blog Management
+# React Native Mobile App - Blog Management
 ## Stack: React Native, fake backend JSON Server
 A mobile app that enables users to create, edit, read, and delete blogs. I mainly worked on React Native advanced state management with context. 
 ## Features:

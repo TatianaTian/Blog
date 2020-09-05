@@ -3,13 +3,13 @@
 A mobile app that enables users to create, edit, read, and delete blogs. I mainly worked on React Native advanced state management with context. 
 ## Features:
 ### Create Blogs:
-Once the user saves the blog title and the blog content, an id will be automatically generated and saved along with the blog content as an object of a state. The state is kept in a Context and works with a Reducer. The implementation required useContext and useReducer.
+Once the user saves the blog title and the blog content, an ```id``` will be automatically generated and saved along with the blog content as an object of a state. The state is kept in a Context and works with a Reducer. The implementation required useContext and useReducer.
 
-{
-Id: <blog id>,
-Title: <blog title>,
-Content: <blog content>
-}
+```{
+Id: blog.id,
+Title: blog.title,
+Content: blog.content
+}```
 
 ### Read Blogs:
 I used useContext to read state, and find the blog by id.
